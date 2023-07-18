@@ -1,0 +1,55 @@
+1	3.1.1	ESS user Login
+2	3.1.1	ESS user can see the personal details.
+3	3.1.1	ESS user can Edit the certain personal details.
+4	3.1.1	ESS user can not edit the restructed fields in personal details.
+5	3.1.2	ESS user can add a profile picture.
+6	3.1.3	ESS user will be able to View the contact details.
+7	3.1.3	ESS user will be able to edit the contact details.
+8	3.1.4	ESS user can add the emergency contact number.
+9	3.1.4	ESS user can add multiple emergency contact.
+10	3.1.4	ESS user will be able to delete the multiple or single emergency contact number.
+11	3.1.4	ESS user can also add the attachment.
+12	3.1.5	ESS user can their dependent.
+13	3.1.5	ESS user can also add multiple dependent.
+14	3.1.5	ESS user can delete the dependent.
+15	3.1.5	ESS user can delete the multiple dependent at same time.
+16	3.1.5	ESS user can also add the attachment.
+17	3.1.6	ESS user can add immigration information.
+18	3.1.6	ESS user can add multiple immigration informations.
+19	3.1.6	ESS user can delete the immigration information.
+20	3.1.6	ESS user can delete the multiple immigration at same time.
+21	3.1.6	ESS user can also add the immigration documents.
+22	3.1.7	ESS user can view the job information.
+23	3.1.7	ESS user cannot make changes to job details.
+24	3.1.8	ESS user cannot edit the salary information.
+25	3.1.9	ESS user can only view the list of supervisors.
+26	3.1.9	ESS supervisor can only view subordinates.
+27	3.1.10	ESS user can add their work experience.
+28	3.1.10	ESS user can add multiple work experience.
+29	3.1.10	ESS user can delete the work experience.
+30	3.1.10	ESS user can delete the multiple work experience at the same time.
+31	3.1.10	ESS user can add  education details.
+32	3.1.10	ESS user can add multiple education details.
+33	3.1.10	ESS user can delete an education details.
+34	3.1.10	ESS user can also delete multiple education details at same time.
+35	3.1.10	ESS user can add skills.
+36	3.1.10	ESS user can add multiple skills.
+37	3.1.10	ESS user can delete skills.
+38	3.1.10	ESS user can delete multiple skills at same time.
+39	3.1.10	ESS user can add languages with their fluency and competency.
+40	3.1.10	ESS user can add multiple languages.
+41	3.1.10	ESS user can delete languages.
+42	3.1.10	ESS user can delete multiple languages at same time.
+43	3.1.10	ESS user can add license.
+44	3.1.10	ESS user can add mulltiple linceses.
+45	3.1.10	ESS user can delete licences.
+46	3.1.10	ESS user can delete multiple licences entries at same time.
+47	3.1.10	ESS user can add attachments.
+48	3.1.10	ESS user can add multiple attachments.
+49	3.1.10	ESS user can delete attachments.
+50	3.1.10	ESS user can delete multiple attachments simultaneously.
+51	3.1.11	ESS user can add membership details.
+52	3.1.11	ESS user can add multiple membership details.
+53	3.1.11	ESS user can delete membership informations.
+54	3.1.11	ESS user can delete multiple membership informations at same time.
+55	3.1.11	ESS user can add attachments regarding membership.
